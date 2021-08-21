@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reddit</string>
+    <string name="Subreddit_toast">Please enter subreddit!</string>
+</resources>
