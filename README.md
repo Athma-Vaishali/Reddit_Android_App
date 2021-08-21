@@ -1,7 +1,5 @@
 # Reddit_Android_App
 
-# FETCH
-
 ## Table of Contents
 1. [Overview](#Overview)
 2. [User Stories](#User-Stories)
@@ -32,12 +30,15 @@ Additional features:
 <img src='https://github.com/Athma-Vaishali/Reddit_Android_App/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Wireframes
+<img src='https://github.com/Athma-Vaishali/Reddit_Android_App/blob/master/wireframe.jpeg' height='300' width='400' title='Hand sketch wireframes' />
 
 ### Digital Wireframes & Mockups
 
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide] (https://github.com/bumptech/glide) - Used to display images
+- [EndlessRecyclerViewScrollListener] (https://gist.github.com/nesquena/d09dc68ff07e845cc622) - Used for pagination
 
 ## Schema 
 ### Models
